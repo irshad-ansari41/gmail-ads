@@ -1,0 +1,5 @@
+Advertiser: Business Name
+Subject: Everything 20% Off at Business Name
+Description: Buy new products at low prices!
+Display Url: www.example.com
+Landing Page: https://www.example.com/sale
